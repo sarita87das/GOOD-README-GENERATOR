@@ -13,4 +13,4 @@ user will be prompted for their GitHub username and other several question about
 * Questions
 
 ## Demonstration of project 
-![demo]()
+![demo](sarita.gif)
